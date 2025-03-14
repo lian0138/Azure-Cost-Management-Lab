@@ -1,2 +1,2 @@
-![Budget_50](https://raw.githubusercontent.com/lian0138/CST8913/refs/heads/main/Lab9/img/Budget_50.png?token=GHSAT0AAAAAAC5F5LR2BYTTTELKDB3PFF2GZ6UV5JA)
-![Budget_Alart](https://raw.githubusercontent.com/lian0138/CST8913/refs/heads/main/Lab9/img/Budget_Alart.png?token=GHSAT0AAAAAAC5F5LR3VULFBCCT2OP2C2YWZ6UV3AA)
+![Budget_50](https://raw.githubusercontent.com/lian0138/Azure-Cost-Management-Lab/refs/heads/main/img/Budget_50.png)
+![Budget_Alart](https://raw.githubusercontent.com/lian0138/Azure-Cost-Management-Lab/refs/heads/main/img/Budget_Alart.png)
